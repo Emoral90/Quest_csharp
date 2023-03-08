@@ -19,7 +19,7 @@ A gameified program that maintains a record of long term goals
 2. Use polymorphism by having derived classes override base class methods where appropriate.
 3. Follow the principles of encapsulation and abstraction by having private member variables and putting related items in the same class.
 
-### 5 classes?
+### 18-20 classes?
 * Goal: to keep track of progress
     * Attributes: string name, string description, int points
     * Methods: Goal(name, desc, points), string getName(), string getDesc(), int getPoints(), void recordProgress(), bool isComplete()
